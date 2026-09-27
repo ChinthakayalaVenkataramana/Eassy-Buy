@@ -8,7 +8,6 @@ public class EassyBuyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EassyBuyApplication.class, args);
-		System.out.println();
 	}
 
 }
